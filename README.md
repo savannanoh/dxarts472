@@ -13,3 +13,5 @@ I will be using the L293D chip as a driver between the motor and Arduino.
 I think I will have a separate Arduino for each motor. 
 
 I have so far followed this tutorial's code and schematic: https://lastminuteengineers.com/stepper-motor-l293d-arduino-tutorial/
+
+I have used this model as a starting off point for the mechanism: https://www.thingiverse.com/thing:193647/files
